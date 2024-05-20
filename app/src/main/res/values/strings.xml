@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Reconocimiento de texto</string>
+
+    <string name="BtnReconocer">Reconocer texto</string>
+    <string name="BtnAcercaDe">Acerca de</string>
+    <string name="BtnSalir">Salir</string>
+
+    <string name="ReconocerTexto">Reconocer texto</string>
+    <string name="ReconocerTXT">Texto reconocido: </string>
+    <string name="TextoReconocidoEt"> -- </string>
+
+    <string name="Menu_abrir_galeria">Abrir galería</string>
+    <string name="Menu_abrir_camara">Abrir cámara</string>
+
+    <string name="DesarrolladorTxt">Desarrollado por Damian Devops</string>
+    <string name="EmailTxt">Email: ....</string>
+    <string name="VersionTxt">Versión: 1.0</string>
+    <string name="BtnEntendido">Entendido</string>
+
+</resources>
